@@ -7,5 +7,6 @@ package com.wzq;
 public class Test1 {
     public static void main(String[] args) {
         System.out.println("开发第一期内容1.4");
+        System.out.println("一期bug修复v1.41");
     }
 }
