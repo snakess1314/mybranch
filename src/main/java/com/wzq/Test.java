@@ -6,6 +6,6 @@ package com.wzq;
  */
 public class Test {
     public void show(){
-        System.out.println("我是主要分支");
+        System.out.println("我是主要分支1");
     }
 }
