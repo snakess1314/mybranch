@@ -6,6 +6,6 @@ package com.wzq;
 
 public class Test2 {
     public static void main(String[] args) {
-        System.out.println("开发二期内容1.5");
+        System.out.println("二次修复得整改文件");
     }
 }
